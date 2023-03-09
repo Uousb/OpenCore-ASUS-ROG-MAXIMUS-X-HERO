@@ -1,5 +1,10 @@
-*config-backup.plist
-*config.plist.bak.20230209
-*oldConfig.plist
+config-backup.plist
+config.plist.bak.20230209
+oldConfig.plist
+.config-backup.plist
+.config.plist.bak.20230209
+.oldConfig.plist
+.contentFlavour
+.contentVisibility
 
 Kexts/UTBMap.kext.bak
